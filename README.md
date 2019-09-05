@@ -1,5 +1,7 @@
 # KitchenControl
-Kitchen Control for Manuels new kitchen
+Kitchen Control for Manuels new kitchen<br>
+ATTENTION: program development is still in progress!<br>
+(S/W compiles, but NOT yet tested)
 
 used board: Adafruit Bluefruit nRF52 Feather <br><br>
 - receives 3 PIR signals to detect human presence (hopefully not the hungry cats) <br>
